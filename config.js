@@ -1,19 +1,15 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    introTitle: 'Hellu Song Luân cụa em!',
+    introDesc: `Giờ mình chơi 1 trò chơi nho nhỏ, nếu thua sẽ bị phạt nhá ^^`,
+    btnIntro: 'Oki nuôn',
+    title: 'Anh có iu em hong?',
+    desc: 'Bắt buộc phải chọn mới tiếp tục đượt',
+    btnYes: 'Chạ iu em',
+    btnNo: 'Yêu em nhìu nắmm <3',
+    question:'He he anh bắt buộc phải chọn cái nì đúng hong, đùa hoy chứ em bít anh yêu em nhìu mà. Bây giờ anh hãy viết 1 lý do vì sao anh yêu em ik!',
+    btnReply: '',
+    reply: 'Còn đây là lời em mún nói với anh...',
+    mess: 'Happy Valentine anh iu cụa emmm <3',
+    messDesc: 'Em yêu anh nhìu nắm, mong là chúng mình sẽ bên nhau thêm nhìu cái valentine nữa nhá hehe. Giờ thì ấn zô nút bên dưới để nêu cảm nghĩ của anh zề món quà này nhá ^^',
+    btnAccept: 'Ấn zô đây nè',
+    messLink: 'http://m.me/huonglinh.nguyen11' 
